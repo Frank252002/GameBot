@@ -3,3 +3,4 @@ pandas
 scikit-learn
 joblib
 plyer
+gspread>=5.10.0
